@@ -1,0 +1,32 @@
+_repo: Life-on-the-Mississippi-Part-9._8479
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pilots and pilotage -- Mississippi River'
+- !lcsh 'Mississippi River -- Description and travel'
+- !lcc 'PS'
+- !lcsh 'Mississippi River Valley -- Social life and customs -- 19th century'
+- !lcsh 'Twain, Mark, 1835-1910 -- Travel -- Mississippi River'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- GITenberg
+title: Life on the Mississippi, Part 9.
+url: http://www.gutenberg.org/ebooks/8479
